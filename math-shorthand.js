@@ -18,4 +18,8 @@ age += 1;
 age++;
 console.log(age)
 
-// Many Shorthand Properties
+var love = 100;
+love = love - 1;
+love -= 1;
+love--;
+console.log(love);
