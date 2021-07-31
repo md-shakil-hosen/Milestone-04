@@ -47,6 +47,6 @@ var secondNumber = 0.2;
 var totalNumber = firstNumber + secondNumber;
 console.log(totalNumber.toFixed(2));
 
-// Completed The Modiul Very Goodly , Great you are very good ,
+// Completed The Module Very Goodly , Great you are very good ,
 //  Your try to more good man from mind 
 //  Then you success . Thanks you very much
