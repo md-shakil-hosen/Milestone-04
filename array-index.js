@@ -12,3 +12,10 @@ console.log(Index);
 var books = ["Data_Structure", "PCB_Design", "Python_Programming"];
 var threeIndex = books.indexOf("Python_Programming"); /* Include name Book , Check Position */
 console.log(threeIndex);
+
+//  Change Array Index or Change Array Position
+var numbers = ['1', '3', '5', '7', '9'];
+numbers[5] = 19;
+numbers[1] = 13;
+console.log(numbers);
+
