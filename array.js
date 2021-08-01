@@ -15,5 +15,5 @@ console.log(oddNumber.length);
 
 var friendsNameList = ["Rakib", "Ashik", "Pias", "Babu", "Abir"];
 var friendsNameListCount = friendsNameList.length;
-console.log(friendsNameListCount);
+console.log(friendsNameListCount); /* Count of Variable Elements */
 
