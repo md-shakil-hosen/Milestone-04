@@ -15,6 +15,8 @@ for (var i = 0; i < 12; i++) {
 
 var numbers = [45, 25, 258, 258, 266, 25, 23, 25, 286, 63, 33, 56];
 for (var i = 0; i < numbers.length; i++) {
+    numbers = [100]; /*Added Array Element*/
+    console.log(numbers);
     var element = numbers[i];
     console.log(element);
 
