@@ -24,3 +24,4 @@ function getFactorial(number) {
 }
 const MyFactorial = getFactorial(3);
 console.log(MyFactorial);
+console.log('Ok All Right Your Code ')
