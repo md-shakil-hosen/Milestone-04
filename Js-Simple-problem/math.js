@@ -1,1 +1,0 @@
-// Simple Math Problem Slove
